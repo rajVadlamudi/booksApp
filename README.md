@@ -1,7 +1,8 @@
 # booksApp
 
+
 Instructions to launch the webapp
-1)Download or clone the repository https://github.com/rajVadlamudi/booksApp.git
+1)Do a Git pull request for the repository https://github.com/rajVadlamudi/booksApp.git
 2)In command prompt enter, cd booksApp
 3)In command prompt enter, npm install
 4)In command prompt enter, yarn start
